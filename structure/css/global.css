@@ -1,0 +1,80 @@
+/*  
+    Table of content  
+ ------------------------------------- 
+ *  1) For Global typography
+ *  2) For Header Section
+ *  3) For Footer Section
+ * 
+ * 
+ ***********************************************************************/
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+/*   1)  For Global typography
+   ========================================================================== */
+body{
+	/*font-size:62.5%; line-height:1;*/
+	
+}
+.container{
+	width:100%; max-width:960px; margin:0 auto;
+}
+h1,h2,h3,h4,h5,h6{
+	
+}
+p{
+	font-size:1.2em; line-height:1.2;
+}
+.txt-left {
+  text-align: left;
+}
+.txt-right {
+  text-align: right;
+}
+.img-rounded {
+  border-radius: 6px; -webkit-border-radius: 6px;
+}
+.img-circle {
+  border-radius: 50%; -webkit-border-radius: 50%;
+}
+a:hover,a:focus{
+	
+}
+/*  Form element  */
+
+select{
+	cursor: pointer;
+}
+
+input[type="text"]{
+	
+}
+input[type="submit"]{
+	
+}
+.btn{
+	
+}
+.btn:hover{
+	
+}
+
+/*   2)  For Header
+   ========================================================================== */
+
+  
+  
+  
+  
+/*   3)  For Footer
+   ========================================================================== */
+  
+
